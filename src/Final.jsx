@@ -29,8 +29,8 @@ export default function Final() {
         </div>
         <GlitchFrame>
           <AccessPanel
-            clueTitle="Clue 3 – Echoes of the Architect"
-            clueText={`They called it extinction. He called it renewal. From charred soil one word remained — carved by those who refused to die.`}
+            clueTitle="Clue 3: Echoes of the Architect"
+            clueText={`They called it extinction. He called it renewal. From charred soil one word remained, carved by those who refused to die.`}
             promptLabel="Enter Access Word"
             correctAnswer="REVENANT"
             revealFragment="OPE"
@@ -56,7 +56,7 @@ export default function Final() {
                   animate={{ opacity: 1, y: 0 }}
                   transition={{ delay: 0.6 }}
                 >
-                  The Architect’s shadow falls upon Europe. The Inferno begins where the old world once rose.
+                  The Architect's shadow falls upon Europe. The Inferno begins where the old world once rose.
                 </motion.p>
               </div>
             </motion.div>

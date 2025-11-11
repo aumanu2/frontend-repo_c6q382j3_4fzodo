@@ -30,7 +30,7 @@ export default function Second() {
         </div>
         <GlitchFrame>
           <AccessPanel
-            clueTitle="Clue 2 – Cycle of Sins"
+            clueTitle="Clue 2: Cycle of Sins"
             clueText={`Nine rings. Nine falls. Each collapse births the same whisper: Rise, if you dare.\nThe answer is life returned, not newly born.`}
             promptLabel="Enter Access Word"
             correctAnswer="RESURGE"

@@ -34,8 +34,8 @@ export default function App() {
 
         <GlitchFrame>
           <AccessPanel
-            clueTitle="Clue 1 – Ashes of Faith"
-            clueText={`He burned the world not from hate, but from belief — belief that from ruin, the pure may rise again.\nOnly the creature that devours its own death knows the path forward.`}
+            clueTitle="Clue 1: Ashes of Faith"
+            clueText={`He burned the world not from hate, but from belief, belief that from ruin, the pure may rise again.\nOnly the creature that devours its own death knows the path forward.`}
             promptLabel="Enter Access Word"
             correctAnswer="PHOENIX"
             revealFragment="EU"
